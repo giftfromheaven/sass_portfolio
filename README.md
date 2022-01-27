@@ -1,3 +1,6 @@
 # Sass Portfolio Tutorial
 
-Demo Website  : https://giftfromheaven.github.io/sass_portfolio/dist/
+## Небольшой учебный проект - резюме, сделанное на SASS 
+
+### [Демонстрация](https://giftfromheaven.github.io/sass_portfolio/dist)
+
