@@ -1,6 +1,8 @@
 # Sass Portfolio Tutorial
 
-## Небольшой учебный проект - резюме, сделанное на SASS 
+### Небольшой учебный проект - резюме, сделанное на SASS 
+## Статус
+- Проект завершён
 
 ![preview](https://user-images.githubusercontent.com/72022227/151430523-3872c0a5-020f-4f2e-b3cd-7c31e0b95827.png)
 
